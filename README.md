@@ -1,4 +1,9 @@
-## Hi there 👋
+**Обо мне**
+
+Сертификаты и курсы:
+
+"Декомпозиция на микросервисы и проектирование интеграций" - АНО ДПО "Т1 Цифровая академия" (2026 г.)
+Срок обучения - 118 часов
 
 <!--
 **SergeiShumkov/SergeiShumkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
