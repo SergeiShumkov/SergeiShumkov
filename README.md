@@ -5,6 +5,8 @@
 "Декомпозиция на микросервисы и проектирование интеграций" - АНО ДПО "Т1 Цифровая академия" (2026 г.)
 Срок обучения - 118 часов
 
+<img width="460" height="639" alt="image" src="https://github.com/user-attachments/assets/52adaaae-77c0-4760-a547-55c6c385cef5" />
+
 <!--
 **SergeiShumkov/SergeiShumkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
